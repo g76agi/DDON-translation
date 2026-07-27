@@ -1,27 +1,36 @@
-﻿0,,大砲の弾,,ui\00_message\examine_message\quest\quest_examine_q60320000.gmd,\quest\q60320000.arc,q60320000.arc,0,Doris,Quest Examine
-0,,大砲の土台,,ui\00_message\examine_message\quest\quest_examine_q60320000.gmd,\quest\q60320000.arc,q60320000.arc,1,Doris,Quest Examine
-0,,大砲の砲身,,ui\00_message\examine_message\quest\quest_examine_q60320000.gmd,\quest\q60320000.arc,q60320000.arc,2,Doris,Quest Examine
-0,,――仲間の救援部隊が到着した！,,ui\00_message\examine_message\quest\quest_examine_q60320001.gmd,\quest\q60320001.arc,q60320001.arc,0,Umit,Quest Examine
-0,,――敵軍が増援部隊を招集！,,ui\00_message\examine_message\quest\quest_examine_q60320001.gmd,\quest\q60320001.arc,q60320001.arc,1,Umit,Quest Examine
-0,,――敵の痕跡を発見した！,,ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,0,Dean,Quest Examine
-0,,――敵の痕跡を見失った！,,ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,1,Dean,Quest Examine
-0,,――敵の気配を発見した！出現場所へ！,,ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,2,Dean,Quest Examine
-0,,――敵の痕跡ではなかった！他を探そう！,,ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,3,Dean,Quest Examine
-0,,辺りを見渡す,,ui\00_message\examine_message\quest\quest_examine_q60320010.gmd,\quest\q60320010.arc,q60320010.arc,0,Doris,Quest Examine
+﻿0,,大砲の弾,Cannonball.,ui\00_message\examine_message\quest\quest_examine_q60320000.gmd,\quest\q60320000.arc,q60320000.arc,0,Doris,Quest Examine
+0,,大砲の土台,Cannon mount.,ui\00_message\examine_message\quest\quest_examine_q60320000.gmd,\quest\q60320000.arc,q60320000.arc,1,Doris,Quest Examine
+0,,大砲の砲身,Cannon barrel.,ui\00_message\examine_message\quest\quest_examine_q60320000.gmd,\quest\q60320000.arc,q60320000.arc,2,Doris,Quest Examine
+0,,――仲間の救援部隊が到着した！,An allied Support Force has arrived!,ui\00_message\examine_message\quest\quest_examine_q60320001.gmd,\quest\q60320001.arc,q60320001.arc,0,Umit,Quest Examine
+0,,――敵軍が増援部隊を招集！,The enemy is calling in reinforcements!,ui\00_message\examine_message\quest\quest_examine_q60320001.gmd,\quest\q60320001.arc,q60320001.arc,1,Umit,Quest Examine
+0,,――敵の痕跡を発見した！,Discovered traces of the enemy!,ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,0,Dean,Quest Examine
+0,,――敵の痕跡を見失った！,.Lost the traces of the enemy!,ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,1,Dean,Quest Examine
+0,,――敵の気配を発見した！出現場所へ！,"...Detected the enemy's presence! 
+Head to the location!",ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,2,Dean,Quest Examine
+0,,――敵の痕跡ではなかった！他を探そう！,"...It wasn't the traces of the enemy, 
+let's search elsewhere!",ui\00_message\examine_message\quest\quest_examine_q60320003.gmd,\quest\q60320003.arc,q60320003.arc,3,Dean,Quest Examine
+0,,辺りを見渡す,Survey the area.,ui\00_message\examine_message\quest\quest_examine_q60320010.gmd,\quest\q60320010.arc,q60320010.arc,0,Doris,Quest Examine
 0,,"岩の向こうから巨大な力を感じる――
-この先に竜がいるのだろう",,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,0,Bacias,Quest Examine
-0,,魔物の身体から闇の力を感じる――,,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,1,Bacias,Quest Examine
+この先に竜がいるのだろう","A tremendous power can be felt
+beyond the rocks...
+There must be a dragon ahead.",ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,0,Bacias,Quest Examine
+0,,魔物の身体から闇の力を感じる――,The monster's body radiates dark power...,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,1,Bacias,Quest Examine
 0,,"さきほど感じたものと同じ闇の力を感じる
-奥へと続いているようだ――",,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,2,Bacias,Quest Examine
+奥へと続いているようだ――","A similiar dark power can be felt,
+It seems to be going into the depths...
+",ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,2,Bacias,Quest Examine
 0,,"大きな闇の力の痕跡がある
-魔物がいないことが気になるが――",,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,3,Bacias,Quest Examine
-0,,魔物が突然現れ襲い掛かってきた,,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,4,Bacias,Quest Examine
-0,,闇の力の流れる先を感じ取った,,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,5,Bacias,Quest Examine
-0,,魔物が突然現れ襲い掛かってきた,,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,6,Bacias,Quest Examine
-0,,闇の力の流れる先を感じ取った,,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,7,Bacias,Quest Examine
-0,,――護衛兵を発見した！,,ui\00_message\examine_message\quest\quest_examine_q80301070.gmd,\quest\q80301070.arc,q80301070.arc,0,Mephis,Quest Examine
-0,,――時間切れのようだ――,,ui\00_message\examine_message\quest\quest_examine_q80301070.gmd,\quest\q80301070.arc,q80301070.arc,1,Mephis,Quest Examine
-0,,――敵の増援が出現した！,,ui\00_message\examine_message\quest\quest_examine_q80301072.gmd,\quest\q80301072.arc,q80301072.arc,0,Mephis,Quest Examine
+魔物がいないことが気になるが――","There are traces of a powerful dark power,
+But the absence of any monsters is strange...",ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,3,Bacias,Quest Examine
+0,,魔物が突然現れ襲い掛かってきた,"Monsters have suddenly emerged
+and are attacking!",ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,4,Bacias,Quest Examine
+0,,闇の力の流れる先を感じ取った,Detected the source of the dark power's flow.,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,5,Bacias,Quest Examine
+0,,魔物が突然現れ襲い掛かってきた,"Monsters have suddenly emerged
+and are attacking!",ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,6,Bacias,Quest Examine
+0,,闇の力の流れる先を感じ取った,Detected the source of the dark power's flow.,ui\00_message\examine_message\quest\quest_examine_q60321010.gmd,\quest\q60321010.arc,q60321010.arc,7,Bacias,Quest Examine
+0,,――護衛兵を発見した！,...Guards found!,ui\00_message\examine_message\quest\quest_examine_q80301070.gmd,\quest\q80301070.arc,q80301070.arc,0,Mephis,Quest Examine
+0,,――時間切れのようだ――,...Looks like time has run out...,ui\00_message\examine_message\quest\quest_examine_q80301070.gmd,\quest\q80301070.arc,q80301070.arc,1,Mephis,Quest Examine
+0,,――敵の増援が出現した！,...Enemy reinforcements have appeared!,ui\00_message\examine_message\quest\quest_examine_q80301072.gmd,\quest\q80301072.arc,q80301072.arc,0,Mephis,Quest Examine
 0,,"北：ダナ
 西：ナバド
 南：ファーラナ遺跡","North: Dana
